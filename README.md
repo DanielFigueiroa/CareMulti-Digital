@@ -13,6 +13,12 @@
 
  O Vite inicia em `http://localhost:5173`.
 
+ ## Publicação no GitHub Pages
+
+ O deploy é feito automaticamente pelo GitHub Actions a cada atualização da branch `main`. Para ativá-lo, em **Settings → Pages → Build and deployment**, selecione **GitHub Actions** como origem. Depois da primeira execução bem-sucedida do workflow, a aplicação ficará disponível em:
+
+ https://danielfigueiroa.github.io/CareMulti-Digital/
+
  ## Verificações
 
  ```bash
